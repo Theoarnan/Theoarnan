@@ -21,9 +21,6 @@ My name is Arnan Abdiel Theopilus, can be called Arnan. I work as a Mobile Engin
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theoarnan&layout=compact)
-
 ## 🤖 Social Media
 <div id="badges">
   <a href="https://www.linkedin.com/in/arnantheo">
